@@ -1,5 +1,10 @@
 Red is the first color of the rainbow.
 Orange is the second color of the rainbow.
 Green is the fourth color.
+<<<<<<< HEAD
 Blue is the fifth color.
 violet is the seventh color in the rainbow.
+=======
+indigo is the sixth color in the rainbow.
+
+>>>>>>> origin/main
